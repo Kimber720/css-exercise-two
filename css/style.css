@@ -1,6 +1,16 @@
 body {
-  background-color: #ff0000;
-  color: #0000FF;
+  background-color: #cee4f5;
+  color: #000000;
+  font-size: 16px;
+  line-height: 1.2;
+  }
+
+h1 {
+  font-size: 2em; /* 32px */
+}
+
+p {
+  font-size: 100%; /* 16px */
 }
 
 nav {
@@ -35,6 +45,10 @@ nav {
 ul {
   list-style-type: none;
   float: right;
+}
+
+a {
+  text-decoration: none;
 }
 
 li {
